@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Hi cậu  <3",
+    titleWeb: "Hi cậu <3",
     introTitle: 'Nguyễn Thị Thanh Thảo  ',
     introDesc: `Dường như ta còn vương vẫn mãi
     Những kỉ niệm mà bạn bên tôi 
@@ -7,7 +7,7 @@ const CONFIG = {
     Vì giờ đây chỉ còn là kỉ niệm `,
     btnIntro: '^^HiHi^^',
     title: 'Có phải cậu cũng giống như tớ 🥰',
-    desc: 'Phải chăng cậu đã thích tôi đúng không ? ',
+    desc: 'Phải chăng cậu đã thích tớ đúng không ? ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Có biết bao nhiêu người sao cậu lại thích tớ  <3',
