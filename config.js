@@ -1,18 +1,18 @@
 const CONFIG = {
-    titleWeb: "Bé Cún Của Anh <3",
-    introTitle: 'Trần Thị Thu Thùy ',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Hi cậu  <3",
+    introTitle: 'Nguyễn Thị Thanh Thảo  ',
+    introDesc: `Dường như ta còn vương vẫn mãi
+    Những kỉ niệm mà bạn bên tôi 
+    Ta thật lòng nuối tiếc thời gian trôi
+    Vì giờ đây chỉ còn là kỉ niệm `,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Có phải cậu cũng giống như tớ 🥰',
+    desc: 'Phải chăng cậu đã thích tôi đúng không ? ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho em  <3',
-    reply: 'Không yêu cũng phải yêu <3',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    question: 'Có biết bao nhiêu người sao cậu lại thích tớ  <3',
+    btnReply: 'Gửi cho cậu   <3',
+    reply: 'Không thích cũng phải thích  <3',
+    mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
     messLink: 'https://github.com/ngocson/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
