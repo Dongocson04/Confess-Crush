@@ -8,7 +8,7 @@ const CONFIG = {
     btnIntro: '^^HiHi^^',
     title: 'Có phải cậu cũng giống như tớ 🥰',
     desc: 'Phải chăng cậu đã thích tớ đúng không ? ',
-    btnYes: 'Thích lắm <33',
+    btnYes: 'Thích lắm <3',
     btnNo: 'Không nha :3',
     question: 'Có biết bao nhiêu người sao cậu lại thích tớ  <3',
     btnReply: 'Gửi cho cậu   <3',
