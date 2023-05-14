@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Hi cậu <3",
-    introTitle: 'Nguyễn Thị Thanh Thảo  ',
+    introTitle: 'không có ai đâu',
     introDesc: `Dường như ta còn vương vẫn mãi
     Những kỉ niệm mà bạn bên tôi 
     Ta thật lòng nuối tiếc thời gian trôi
